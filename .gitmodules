@@ -1,0 +1,12 @@
+[submodule "Captain.Common"]
+	path = Captain.Common
+	url = https://github.com/CaptainApp/Captain.Common
+[submodule "Aperture.Windows"]
+	path = Aperture.Windows
+	url = https://github.com/CaptainApp/Aperture.Windows
+[submodule "Captain.UI"]
+	path = Captain.UI
+	url = https://github.com/CaptainApp/Captain.UI
+[submodule "Captain.Application"]
+	path = Captain.Application
+	url = https://github.com/CaptainApp/Captain.Application
